@@ -110,8 +110,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:039307_0000_10141C96345EA590"/>
-            <pb facs="tcp:039307_0001_10141C97C2A63518" rendition="simple:additions"/>
+            <pb facs="unknown:039307_0000_10141C96345EA590"/>
+            <pb facs="unknown:039307_0001_10141C97C2A63518"
+                rendition="simple:additions"/>
             <p>A JOURNAL KEPT BY Coll. <hi>Stephen Courtland,</hi> &amp; Coll. <hi>Rich. Beyard,</hi> Of Their Majeſties Council for the Province of New-York, Being appointed by the COUNCIL to Attend His Excellency <hi>Benjamin Fletcher,</hi> Captain General and Governor in chief of the Province of <hi>New York</hi> Province of <hi>Pennſilvania</hi> Country of <hi>New-Caſtle,</hi> &amp; Territories and Tracts of Land depending there<g ref="char:EOLhyphen"/>on in <hi>America,</hi> and Vice Admiral of the ſame, TO ALBANY In Treating with the <hi>Indians</hi> of the Five Nations, and River <hi>Indians</hi> of that Province, in the Months of <hi>June</hi> and <hi>July,</hi> 1693.</p>
             <p>Together with the Propoſitions and Conferences of the ſaid <hi>Indians</hi> with his Excellency. And his Excellency's Anſwers, <hi>&amp;c.</hi>
             </p>
@@ -120,7 +121,7 @@
       </front>
       <body>
          <div type="journal">
-            <pb n="3" facs="tcp:039307_0002_10141C9A5A3C9D20"/>
+            <pb n="3" facs="unknown:039307_0002_10141C9A5A3C9D20"/>
             <head>A Journal, &amp;c. Province of New-York ſſ.
 <date>June the <hi>3</hi>d. <hi>1693.</hi>
                </date>
@@ -249,7 +250,7 @@
                   </gap>,</hi> with twenty four <hi>Indians,</hi> bringing two <hi>French</hi> ſcalps, and a young French Priſoner, &amp;c.</p>
             <p>
                <hi>June</hi> 20. His Excellency, attended with forty Horſe, went and
-<pb n="4" facs="tcp:039307_0003_10141C9474F80730"/>
+<pb n="4" facs="unknown:039307_0003_10141C9474F80730"/>
 viewed the Garriſon at <hi>Schenectady,</hi> put <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> that night.</p>
@@ -273,7 +274,7 @@ viewed the Garriſon at <hi>Schenectady,</hi> put <gap reason="illegible" resp="
             <p>
                <hi>July</hi> the 2d. At night the <hi>Indians</hi> of the Weſtern Nations arrived, ſome of the principal Sachims had private Conference with his Ex<g ref="char:EOLhyphen"/>cellency.</p>
             <p>
-               <pb n="5" facs="tcp:039307_0004_101416319F439DC8"/>
+               <pb n="5" facs="unknown:039307_0004_101416319F439DC8"/>
                <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> His E<gap reason="illegible" resp="#PDCC" extent="3 letters">
@@ -369,7 +370,7 @@ Eſqrs.</p>
                </gap> three Beavers.</p>
             <p>
                <pb n="6"
-                   facs="tcp:039307_0005_10141C9DF045E518"
+                   facs="unknown:039307_0005_10141C9DF045E518"
                    rendition="simple:additions"/>Our Governour is a great Man, we pray that he would <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> our future Preſervation; and ſince the French are alſo potent, <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -432,7 +433,7 @@ Eſqrs.</p>
                </gap> are greater than theirs, and we have received the greateſt Kind<g ref="char:EOLhyphen"/>ne<gap reason="illegible" resp="#PDCC" extent="3 letters">
                   <desc>•••</desc>
                </gap>
-               <pb n="7" facs="tcp:039307_0006_10141CBA9AFA8650"/>
+               <pb n="7" facs="unknown:039307_0006_10141CBA9AFA8650"/>
                <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> 
@@ -554,7 +555,7 @@ Eſqrs.</p>
                   </gap> Youth accordingly.</p>
                <p>
                   <pb n="8"
-                      facs="tcp:039307_0007_10141CA11E4CAEF0"
+                      facs="unknown:039307_0007_10141CA11E4CAEF0"
                       rendition="simple:additions"/>
                   <hi>Brother Cajenquirago</hi>; We h<gap reason="illegible" resp="#PDCC" extent="3 letters">
                      <desc>•••</desc>
@@ -601,7 +602,7 @@ Eſqrs.</p>
                </gap>ble your ſelves; This is a Vice ſtrictly to be proh<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>bited and
-<pb n="9" facs="tcp:039307_0008_10141CBE524E8218"/>
+<pb n="9" facs="unknown:039307_0008_10141CBE524E8218"/>
 puniſhed. It is a greater in me to Martial Men <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> their Sleep like Death, and ſo they become an eaſie Prey <gap reason="illegible" resp="#PDCC" extent="1 span">
@@ -688,7 +689,7 @@ puniſhed. It is a greater in me to Martial Men <gap reason="illegible" resp="#P
                </gap>ervant and Lieutenant here to renew and confirm the antient Covenant Chain not only in behalf of this Province, but thoſe of <hi>New England, Virginia, Maryland</hi> and <hi>Pennſilvania</hi>; and as a Mark of their ſacred Majeſties Eſteem and Value which they have for your Courage and ſteady Ad<g ref="char:EOLhyphen"/>herence to Their Intereſt; and as a Seal to this Covenant Chain, which muſt ever be preſerved Inviolable, I have brought you Preſents from Their Majeſties.</p>
          </div>
          <div type="answer">
-            <pb n="10" facs="tcp:039307_0009_10141CA362CD6C80"/>
+            <pb n="10" facs="unknown:039307_0009_10141CA362CD6C80"/>
             <head>The Anſwer of the Five Nations to his Excellency <hi>Benjamin Fletcher, &amp;c.</hi> in the City Hall of <hi>Albany,</hi> the
 <date>4th day of <hi>July,</hi> 1693.</date>
             </head>
@@ -726,7 +727,7 @@ puniſhed. It is a greater in me to Martial Men <gap reason="illegible" resp="#P
                   <desc>•</desc>
                </gap>other, for your own Satisfaction.</p>
             <p>
-               <pb n="11" facs="tcp:039307_0010_10141CBFDC786038"/>
+               <pb n="11" facs="unknown:039307_0010_10141CBFDC786038"/>
                <hi>Brother Cajenquirago</hi>
                <g ref="char:punc">▪</g> W<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -828,7 +829,7 @@ puniſhed. It is a greater in me to Martial Men <gap reason="illegible" resp="#P
                   </gap>courage them to <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>nifeſt their Valour and
-<pb n="12" facs="tcp:039307_0011_10141CA78F9188E0"/>
+<pb n="12" facs="unknown:039307_0011_10141CA78F9188E0"/>
 Courage againſt the common Enemy, as their Anceſtors have done. Reminded them of the Prieſt <hi>Millet,</hi> that they muſt expect that all their Deſigns will be deſtroyed ſo long as he is kept amongſt them, and there<g ref="char:EOLhyphen"/>fore adviſed them ſpeedily to remove that dangerous Perſon.</p>
                <p>His Excellency alſo bid them be mindful of what he ſaid to them, and true to the Covenant they have renewed. Which they all promiſed to obſerve and keep inviolable. Whereupon, as a Seal thereunto, his Ex<g ref="char:EOLhyphen"/>cellency ordered the firing of five Guns, which they anſwered with the like Number of Shouts.</p>
                <p>It was particularly obſerved, that <hi>Odongaowa,</hi> the long <hi>Oneyde,</hi> who was the only ſuſpected <hi>Indian,</hi> and the moſt particular Friend of the Jeſuite, did riſe up, and ſing a Song of War, (which after their way is the ſame with a Vow) that he would now preſently go and fight the French, Praying Indians of <hi>Canada,</hi> and promiſed further to his Excel<g ref="char:EOLhyphen"/>lency, that he would take particular care that no Letters from <hi>Canada</hi> ſhould come to the Prieſts hands, but would have them ſecured at their firſt coming, and ſent down to his Excellency to be read, that the Poyſon may be diſcovered, which is hid therein. Whereupon they went on Shore, with great Satisfaction. His Excellency ordered them a Salute of five Guns, which they anſwered with ſo many Shouts, after their wild manner.</p>
@@ -854,7 +855,7 @@ Courage againſt the common Enemy, as their Anceſtors have done. Reminded them 
                   </gap> or Cattle belonging to the Chriſtians, the Perſon or Perſons offending ſhall make Satisfaction for the ſame.</p>
                <p>
                   <pb n="13"
-                      facs="tcp:039307_0012_10141CC1652450E8"
+                      facs="unknown:039307_0012_10141CC1652450E8"
                       rendition="simple:additions"/>As for the Jeſuite <hi>Mi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>let,</hi> the <hi>Oneyde</hi> Sachim ſaid, <hi>He would <gap reason="illegible" resp="#PDCC" extent="1 span">
@@ -953,7 +954,7 @@ Courage againſt the common Enemy, as their Anceſtors have done. Reminded them 
                <p>His Excellency wiſhed them a ſafe Return and good Succeſs in all their Undertakings againſt the common Enemy, aſſuring them of the g<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>eat King and Queens Favour; nothing doubting but that all of them,
-<pb n="14" facs="tcp:039307_0013_10141CAC35109840"/>
+<pb n="14" facs="unknown:039307_0013_10141CAC35109840"/>
 as Men of Courage and Honour, will ſtick cloſe to their Majeſties Intereſt, as they have alwayes done ſince the firſt ſettlement of this Country, equal to their Promiſes, and the Covenant Chain, which they have now renewed; And bid them Farewell.</p>
                <p>Whereupon the Speaker of the five Nations, in behalf of them, re<g ref="char:EOLhyphen"/>turned hearty Thanks for his Excellency's great Favours, and his care for their Safety, aſſuring his Excellency, <hi>That they would strictly obſerve his Commends, and by their future <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -1002,7 +1003,7 @@ as Men of Courage and Honour, will ſtick cloſe to their Majeſties Intereſt, 
                </gap> of <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>
-               <pb n="15" facs="tcp:039307_0014_10141CC324CB4BD8"/>
+               <pb n="15" facs="unknown:039307_0014_10141CC324CB4BD8"/>
 appeared lately unto you at <hi>Deerfield,</hi> and I hope will caution you for the future. I muſt adviſe you, That from henceforth you bring all the Effects of your Hunting into your own Country, which by pruden<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> management will ſupport you the reſt of the Year.</p>
